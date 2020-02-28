@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * ChengDu University of Technology, 2015-2019
-* M.S. in Jekyll, GitHub University, 2014
+* University of Chinese Academy of Sciences, 2019-2020
+* Chongqing Institute of Green and Intelligent Technology, 2020-2022
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
