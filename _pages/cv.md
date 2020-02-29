@@ -14,18 +14,18 @@ Education
 * ChengDu University of Technology, 2015-2019
 * University of Chinese Academy of Sciences, 2019-2020
 * Chongqing Institute of Green and Intelligent Technology, 2020-2022
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D University of Electronic Science and Technology of China, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* Summer 2024: Research Assistant
+  * University of Electronic Science and Technology of China
+  * Duties included: Research
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* Fall 2025: Professor
+  * ChengDu University of Technology
+  * Duties included: Research
   * Supervisor: Professor Hub
   
 Skills
